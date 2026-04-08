@@ -21,7 +21,7 @@ A simple **responsive hoodie store webpage** built using only **HTML and CSS**. 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/HoodiesCart-HTML-CSS-Webpage.git
+git clone https://github.com/SujiPrasanth/HoodiesCart-HTML-CSS-Webpage/tree/main
 
 HoodiesCart-HTML-CSS-Webpage/
 │
