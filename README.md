@@ -13,6 +13,8 @@ A simple **responsive hoodie store webpage** built using only **HTML and CSS**. 
 
 ## Demo
 
+Here are the screenshots of my project:
+
 ![HoodiesCart Demo](Demoimage/Output1.png)  
 
 
