@@ -17,7 +17,6 @@ Here are the screenshots of my project:
 
 ![HoodiesCart Demo](Demoimage/Output1.png)  
 
-
 ## Installation
 
 1. Clone the repository:
